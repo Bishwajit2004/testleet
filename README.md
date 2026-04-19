@@ -49,6 +49,7 @@ testing leed
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bishwajit2004/testleet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Bishwajit2004/testleet/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/Bishwajit2004/testleet/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Bishwajit2004/testleet/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/Bishwajit2004/testleet/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bishwajit2004/testleet/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
