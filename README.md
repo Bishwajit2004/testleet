@@ -29,6 +29,7 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Bishwajit2004/testleet/tree/main/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Bishwajit2004/testleet/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Bishwajit2004/testleet/tree/main/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Bishwajit2004/testleet/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
