@@ -6,6 +6,7 @@ testing leed
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bishwajit2004/testleet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bishwajit2004/testleet/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Bishwajit2004/testleet/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Two Pointers
@@ -15,6 +16,7 @@ testing leed
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bishwajit2004/testleet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bishwajit2004/testleet/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Bishwajit2004/testleet/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Dynamic Programming
@@ -52,4 +54,8 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bishwajit2004/testleet/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bishwajit2004/testleet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
