@@ -7,6 +7,7 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bishwajit2004/testleet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/Bishwajit2004/testleet/tree/main/0014-longest-common-prefix/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bishwajit2004/testleet/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Bishwajit2004/testleet/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Two Pointers
@@ -52,6 +53,7 @@ testing leed
 | [0008-string-to-integer-atoi](https://github.com/Bishwajit2004/testleet/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Bishwajit2004/testleet/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/Bishwajit2004/testleet/tree/main/0012-integer-to-roman/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Bishwajit2004/testleet/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bishwajit2004/testleet/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -71,4 +73,8 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bishwajit2004/testleet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Bishwajit2004/testleet/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
