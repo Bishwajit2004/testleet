@@ -14,6 +14,7 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bishwajit2004/testleet/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Bishwajit2004/testleet/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bishwajit2004/testleet/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Bishwajit2004/testleet/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Bishwajit2004/testleet/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Bishwajit2004/testleet/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
