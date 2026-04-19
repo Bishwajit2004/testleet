@@ -44,11 +44,13 @@ testing leed
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bishwajit2004/testleet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Bishwajit2004/testleet/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bishwajit2004/testleet/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bishwajit2004/testleet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bishwajit2004/testleet/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -58,4 +60,8 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bishwajit2004/testleet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bishwajit2004/testleet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
