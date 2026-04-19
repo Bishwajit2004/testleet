@@ -37,4 +37,8 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Bishwajit2004/testleet/tree/main/0002-add-two-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Bishwajit2004/testleet/tree/main/0006-zigzag-conversion/) | Medium |
 <!---LeetCode Topics End-->
