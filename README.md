@@ -13,6 +13,7 @@ testing leed
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bishwajit2004/testleet/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bishwajit2004/testleet/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ testing leed
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bishwajit2004/testleet/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Bishwajit2004/testleet/tree/main/0010-regular-expression-matching/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Bishwajit2004/testleet/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Sorting
@@ -51,6 +53,7 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bishwajit2004/testleet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Bishwajit2004/testleet/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Bishwajit2004/testleet/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Bishwajit2004/testleet/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Bishwajit2004/testleet/tree/main/0010-regular-expression-matching/) | Hard |
