@@ -7,6 +7,7 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bishwajit2004/testleet/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Bishwajit2004/testleet/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,4 +16,13 @@ testing leed
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bishwajit2004/testleet/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Bishwajit2004/testleet/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Bishwajit2004/testleet/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Bishwajit2004/testleet/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 <!---LeetCode Topics End-->
